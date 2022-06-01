@@ -58,24 +58,3 @@ while (handlerIndex < buttonLength) {
   });
   handlerIndex++;
 }
-
-// $button[0].addEventListener('click', (e) => {
-//   clickHandler(e);
-// });
-
-// $button[1].addEventListener('click', (e) => {
-//    clickHandler(e);
-// });
-
-// $button[2].addEventListener('click', (e) => {
-//    clickHandler(e);
-// });
-
-// $button[3].addEventListener('click', (e) => {
-//    clickHandler(e);
-// });
-
-// $button[0].textContent = answers[0];
-// $button[1].textContent = answers[1];
-// $button[2].textContent = answers[2];
-// $button[3].textContent = answers[3];
